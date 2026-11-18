@@ -44,3 +44,27 @@ Mein erstes GitHub-Projekt.
 
 \- Branches kennenlernen
 
+
+
+
+
+\## Test
+
+
+
+Geplante Erweiterungen:
+
+
+
+\- COM-Port Überwachung
+
+\- Automatische Wiederverbindung
+
+\- Verbindungslogging
+
+
+
+
+
+\## Test 2 erstmal nur im branch feature-moxa
+
