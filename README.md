@@ -22,3 +22,25 @@ Version 1.0
 
 \- Ethernet 192.168.111.111
 
+
+
+
+
+\# GitDemo2ndTry
+
+
+
+Mein erstes GitHub-Projekt.
+
+
+
+\## Lernziele
+
+
+
+\- Git verstehen
+
+\- GitHub benutzen
+
+\- Branches kennenlernen
+
